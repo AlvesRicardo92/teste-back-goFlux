@@ -1,4 +1,4 @@
-# teste-back-goFlux
+# Teste Back-end goFlux
 
 Arquivos da API estão todos dentro do diretório **/api**;
 
